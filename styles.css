@@ -1,0 +1,16 @@
+input {
+    width: 400px;
+    height: 30px;
+    background-color: #e1e8f0;
+}
+
+button {
+    width: 100px;
+    height: 37px;
+    background-color: orange;
+    margin: 10px;
+}
+
+body {
+    text-align: center;
+}
