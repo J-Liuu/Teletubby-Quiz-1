@@ -13,4 +13,29 @@ button {
 
 body {
     text-align: center;
+    background-image: url("http://www.protty.it/Tubbytronichouse.jpg");
+    background-size: 1220px;
+    background-position: center top; 
+    font-family: 'Baloo Chettan', cursive;
+    background-repeat: no-repeat;
+    
+}
+
+img {
+    width:500px;
+    border:solid 4px green;
+    
+}
+
+h2 {
+font-size:23px;
+}
+
+h3 {
+font-size:20px;
+}
+
+h4{
+font-size:20px;
+
 }
